@@ -93,4 +93,4 @@ AB Testing 관련한 자료들 모음입니다.
 
 ## AB Testing Books
 
-- [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](http://www.yes24.com/Product/Goods/84756203)
+- [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781108724265&orderClick=LEA&Kc=)
