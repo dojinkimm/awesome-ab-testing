@@ -47,6 +47,7 @@ AB Testing 관련한 자료들 모음입니다.
 ### Uber
 - [Under the Hood of Uber’s Experimentation Platform](https://eng.uber.com/xp/)
 - [Building an Intelligent Experimentation Platform with Uber Engineering](https://eng.uber.com/experimentation-platform/)
+- [Supercharging A/B Testing at Uber](https://github.com/dojinkimm/awesome-ab-testing.git)
 
 ### Grab
 - [Building Grab’s Experimentation Platform](https://engineering.grab.com/building-grab-s-experimentation-platform)
