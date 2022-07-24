@@ -12,6 +12,7 @@ AB Testing 관련한 자료들 모음입니다.
     - [Uber](https://github.com/dojinkimm/awesome-ab-testing#uber)
     - [Grab](https://github.com/dojinkimm/awesome-ab-testing#grab)
     - [Stichfix](https://github.com/dojinkimm/awesome-ab-testing#stichfix)
+    - [Shopify](https://github.com/dojinkimm/awesome-ab-testing#shopify)
     - [당근마켓](https://github.com/dojinkimm/awesome-ab-testing#%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93)
     - [뱅크샐러드](https://github.com/dojinkimm/awesome-ab-testing#%EB%B1%85%ED%81%AC%EC%83%90%EB%9F%AC%EB%93%9C)
     - [데브시스터즈](https://github.com/dojinkimm/awesome-ab-testing#%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
@@ -57,6 +58,12 @@ AB Testing 관련한 자료들 모음입니다.
 ### Stichfix
 - [Building our Centralized Experimental Platform](https://multithreaded.stitchfix.com/blog/2019/07/30/building-centralized-experimental-platform/)
 - [Large scale experimentation](https://multithreaded.stitchfix.com/blog/2020/07/07/large-scale-experimentation/)
+
+
+### Shopify
+- [How to Build an Experiment Pipeline from Scratch](https://shopify.engineering/build-experiment-pipeline-from-scratch)
+- [10 Lessons Learned From Online Experiments](https://shopify.engineering/lessons-learned-online-experiments)
+
 
 ### 당근마켓
 - [1주 1개 실험하는 프로덕트 팀이 되는 여정](https://medium.com/daangn/1%EC%A3%BC-1%EA%B0%9C-%EC%8B%A4%ED%97%98%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-b8a4c337a8e1)
