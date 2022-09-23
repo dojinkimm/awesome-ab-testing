@@ -1,6 +1,6 @@
 # Awesome AB Testing
 
-AB Testing 관련한 자료들 모음입니다. 
+Collection of AB Testing related articles
 
 
 ## Table of Contents
