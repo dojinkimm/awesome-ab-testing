@@ -19,6 +19,8 @@ Collection of AB Testing related articles
     - [버킷플레이스](https://github.com/dojinkimm/awesome-ab-testing#%EB%B2%84%ED%82%B7%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4)
     - [하이퍼커넥트](https://github.com/dojinkimm/awesome-ab-testing#%ED%95%98%EC%9D%B4%ED%8D%BC%EC%BB%A4%EB%84%A5%ED%8A%B8)
     - [핵클](https://github.com/dojinkimm/awesome-ab-testing#%ED%95%B5%ED%81%B4)
+    - [매스프레소](https://github.com/dojinkimm/awesome-ab-testing#%EB%A7%A4%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C)
+    - [우아한형제들](https://github.com/dojinkimm/awesome-ab-testing#%EC%9A%B0%EC%95%84%ED%95%9C%ED%98%95%EC%A0%9C%EB%93%A4)
 - [Personal/Community Blogs](https://github.com/dojinkimm/awesome-ab-testing#personalcommunity-blogs)
 - [AB Testing Tools](https://github.com/dojinkimm/awesome-ab-testing#ab-testing-tools)
 - [AB Testing Books](https://github.com/dojinkimm/awesome-ab-testing#ab-testing-books)
@@ -83,6 +85,12 @@ Collection of AB Testing related articles
 
 ### 핵클
 - [[테크 웨비나] 쿠팡 출신 개발자의 A/B 테스트 플랫폼 MVP 개발기](https://www.youtube.com/watch?v=w7JHb60zk9k)
+
+### 매스프레소
+- [QANDA Team의 실험 플랫폼, QXP를 소개합니다.](https://blog.mathpresso.com/qanda-team-%EC%9D%98-%EC%8B%A4%ED%97%98-%ED%94%8C%EB%9E%AB%ED%8F%BC-qxp-%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-e8a0abfbbb8e)
+
+### 우아한 형제들
+- [실험과 기능플래그를 위한 실험플랫폼 구축하기](https://techblog.woowahan.com/9935/)
 
 
 ## Personal/Community Blogs
