@@ -13,6 +13,7 @@ Collection of AB Testing related articles
     - [Grab](https://github.com/dojinkimm/awesome-ab-testing#grab)
     - [Stichfix](https://github.com/dojinkimm/awesome-ab-testing#stichfix)
     - [Shopify](https://github.com/dojinkimm/awesome-ab-testing#shopify)
+    - [Etsy](https://github.com/dojinkimm/awesome-ab-testing#etsy)
     - [당근마켓](https://github.com/dojinkimm/awesome-ab-testing#%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93)
     - [뱅크샐러드](https://github.com/dojinkimm/awesome-ab-testing#%EB%B1%85%ED%81%AC%EC%83%90%EB%9F%AC%EB%93%9C)
     - [데브시스터즈](https://github.com/dojinkimm/awesome-ab-testing#%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88)
@@ -65,6 +66,10 @@ Collection of AB Testing related articles
 ### Shopify
 - [How to Build an Experiment Pipeline from Scratch](https://shopify.engineering/build-experiment-pipeline-from-scratch)
 - [10 Lessons Learned From Online Experiments](https://shopify.engineering/lessons-learned-online-experiments)
+
+
+### Etsy
+- [Understanding the collective impact of experiments](https://www.etsy.com/codeascraft/understanding-the-collective-impact-of-experiments)
 
 
 ### 당근마켓
