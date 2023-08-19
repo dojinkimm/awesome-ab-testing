@@ -40,6 +40,8 @@ Collection of AB Testing related articles
 - [Spotify’s New Experimentation Platform (Part 1)](https://engineering.atspotify.com/2020/10/spotifys-new-experimentation-platform-part-1/)
 - [Spotify’s New Experimentation Platform (Part 2)](https://engineering.atspotify.com/2020/11/spotifys-new-experimentation-platform-part-2/)
 - [Spotify’s New Experimentation Coordination Strategy](https://engineering.atspotify.com/2021/03/spotifys-new-experimentation-coordination-strategy/)
+- [Experimenting at Scale, the Spotify Home Way](https://engineering.atspotify.com/2023/06/experimenting-at-scale-the-spotify-home-way/)
+- [Coming Soon: Confidence — An Experimentation Platform from Spotify](https://engineering.atspotify.com/2023/08/coming-soon-confidence-an-experimentation-platform-from-spotify/)
 
 ### Airbnb
 - [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7)
@@ -74,6 +76,7 @@ Collection of AB Testing related articles
 
 ### 당근마켓
 - [1주 1개 실험하는 프로덕트 팀이 되는 여정](https://medium.com/daangn/1%EC%A3%BC-1%EA%B0%9C-%EC%8B%A4%ED%97%98%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-b8a4c337a8e1)
+- [100+ 팀원의 의사결정에 영향을 주는 Data Scientist, Decision : 실험플랫폼](https://medium.com/daangn/100-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EC%97%90-%EC%98%81%ED%96%A5%EC%9D%84-%EC%A3%BC%EB%8A%94-data-scientist-decision-5c939e8a3ea9)
 
 ### 뱅크샐러드
 - [진정한 실험 조직의 탄생](https://blog.banksalad.com/tech/birth-of-a-genuine-experiment-organization/)
